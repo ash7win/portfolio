@@ -1,0 +1,6 @@
+node_modules/
+social-backend/.env
+social-video/.env
+social-video/output/
+social-backend/posts.db
+.DS_Store

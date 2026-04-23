@@ -4,3 +4,7 @@ social-video/.env
 social-video/output/
 social-backend/posts.db
 .DS_Store
+**/.env
+node_modules/
+social-video/output/
+social-backend/posts.db
